@@ -4,15 +4,15 @@ Online Course Service — Next.js backend API + React (Vite) frontend + MongoDB.
 
 ## Student Information
 
-- **Student Name:** _<S Kyaw Zin Oo>_
-- **Student ID:** _<6726012>_
+- **Student Name:** Your Name Here
+- **Student ID:** 6726012
 
 ## Links
 
-- **Backend repo:** _<url>_  · **Backend deployed:** _<https://wad-backend-brown.vercel.app>_
-- **Frontend repo:** _<url>_  · **Frontend deployed:** _<https://wat-frontend-pi.vercel.app>_
-- **Screen recording:** _<url>_
-
+- **Backend repo:** https://github.com/<your-github-username>/wad-backend
+- **Backend deployed:** https://wad-backend-brown.vercel.app
+- **Frontend repo:** https://github.com/<your-github-username>/wat-frontend
+- **Frontend deployed:** https://wat-frontend-pi.vercel.app
 ## Test Credentials
 
 All test users share the same password: **`Password123!`**
