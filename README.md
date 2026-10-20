@@ -4,13 +4,13 @@ Online Course Service — Next.js backend API + React (Vite) frontend + MongoDB.
 
 ## Student Information
 
-- **Student Name:** _<fill in your name>_
-- **Student ID:** _<fill in your ID>_
+- **Student Name:** _<S Kyaw Zin Oo>_
+- **Student ID:** _<6726012>_
 
 ## Links
 
-- **Backend repo:** _<url>_  · **Backend deployed:** _<https://...vercel.app>_
-- **Frontend repo:** _<url>_  · **Frontend deployed:** _<https://...vercel.app>_
+- **Backend repo:** _<url>_  · **Backend deployed:** _<https://wad-backend-brown.vercel.app>_
+- **Frontend repo:** _<url>_  · **Frontend deployed:** _<https://wat-frontend-pi.vercel.app>_
 - **Screen recording:** _<url>_
 
 ## Test Credentials
