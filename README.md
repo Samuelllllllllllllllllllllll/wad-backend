@@ -9,9 +9,9 @@ Online Course Service — Next.js backend API + React (Vite) frontend + MongoDB.
 
 ## Links
 
-- **Backend repo:** https://github.com/<your-github-username>/wad-backend
+- **Backend repo:** https://github.com/Samuelllllllllllllllllllllll/wad-backend
 - **Backend deployed:** https://wad-backend-brown.vercel.app
-- **Frontend repo:** https://github.com/<your-github-username>/wat-frontend
+- **Frontend repo:** https://github.com/Samuelllllllllllllllllllllll/wat-frontend
 - **Frontend deployed:** https://wat-frontend-pi.vercel.app
 ## Test Credentials
 
